@@ -48,10 +48,12 @@ def total_gross(source)
   # return the total
   
   #nds = source
-  director_index = 0 
+  director_index = 0
+  director_names = list_of_directors(source)
   # while director_index < source.count do 
   #   puts 
   puts directors_totals(source)
+  puts "\n\nDirector names #{director_names}"
 end
 
 
