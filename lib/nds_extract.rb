@@ -48,8 +48,10 @@ def total_gross(source)
   # return the total
   
   #nds = source
-  tumblr = gross_for_director(source[0])
-  puts tumblr
+  director_index = 0 
+  while director_index < source.count do 
+    
+  
 end
 
 
