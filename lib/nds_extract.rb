@@ -57,7 +57,6 @@ def total_gross(source)
     director_index += 1 
   end
   
-  puts total
   total
   
 end
