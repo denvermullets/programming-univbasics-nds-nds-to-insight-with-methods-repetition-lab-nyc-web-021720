@@ -49,9 +49,9 @@ def total_gross(source)
   
   #nds = source
   director_index = 0 
-  while director_index < source.count do 
-    
-  
+  # while director_index < source.count do 
+  #   puts 
+  puts directors_totals(source)
 end
 
 
