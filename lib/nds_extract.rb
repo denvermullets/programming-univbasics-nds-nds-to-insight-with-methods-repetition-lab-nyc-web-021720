@@ -49,7 +49,7 @@ def total_gross(source)
   
   #nds = source
   tumblr = gross_for_director(source[0])
-  
+  puts tumblr
 end
 
 
