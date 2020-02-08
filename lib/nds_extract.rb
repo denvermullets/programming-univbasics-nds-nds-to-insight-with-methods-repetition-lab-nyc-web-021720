@@ -47,8 +47,8 @@ def total_gross(source)
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
   
-  nds = source
-  puts nds
+  #nds = source
+  tumblr = gross_for_director(source[0])
   
 end
 
